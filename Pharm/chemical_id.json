@@ -1,0 +1,245 @@
+{
+  "data": {
+    "objCls": "Chemical",
+    "id": "PA448500",
+    "name": "atorvastatin",
+    "altNames": {
+      "generic": [
+        "Atorvastatin calcium"
+      ],
+      "trade": [
+        "Atogal",
+        "Atorpic",
+        "Cardyl",
+        "Faboxim",
+        "Hipolixan",
+        "Lipitor",
+        "Lipotropic",
+        "Lipovastatinklonal",
+        "Liprimar",
+        "Lowden",
+        "Normalip",
+        "Sincol",
+        "Sortis",
+        "Sotis",
+        "Torvacard",
+        "Torvast",
+        "Totalip",
+        "Tozalip",
+        "Tulip",
+        "Vastina",
+        "Xanator",
+        "Xarator",
+        "Xavator",
+        "Zurinel"
+      ]
+    },
+    "components": [],
+    "crossReferences": [
+      {
+        "id": 827882368,
+        "resource": "BindingDB",
+        "resourceId": "22164",
+        "_url": "http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=22164",
+        "version": 0
+      },
+      {
+        "id": 827882373,
+        "resource": "Canadian Drugs Product Database",
+        "resourceId": "02243097",
+        "version": 1
+      },
+      {
+        "id": 559539933,
+        "resource": "ChEBI",
+        "resourceId": "CHEBI:2910",
+        "_url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A2910",
+        "version": 0
+      },
+      {
+        "id": 827882371,
+        "resource": "ChemSpider",
+        "resourceId": "54810",
+        "_url": "http://www.chemspider.com/Chemical-Structure.54810.html",
+        "version": 0
+      },
+      {
+        "id": 1183698507,
+        "name": "Systemic Immunomodulatory Effects and Pharmacogenetics of Atorvastatin in Early Atherosclerosis [Completed]",
+        "resource": "ClinicalTrials.gov",
+        "resourceId": "NCT00361283",
+        "_url": "http://clinicaltrials.gov/ct2/show/NCT00361283",
+        "version": 1
+      },
+      {
+        "id": 1183698334,
+        "name": "The Role of P-glycoprotein in Sitagliptin Clinical Pharmacology [Completed]",
+        "resource": "ClinicalTrials.gov",
+        "resourceId": "NCT01112670",
+        "_url": "http://clinicaltrials.gov/ct2/show/NCT01112670",
+        "version": 1
+      },
+      {
+        "id": 559539932,
+        "resource": "DrugBank",
+        "resourceId": "DB01076",
+        "_url": "https://www.drugbank.ca/drugs/DB01076",
+        "version": 0
+      },
+      {
+        "id": 827921178,
+        "resource": "FDA Drug Label at DailyMed",
+        "resourceId": "c6e131fe-e7df-4876-83f7-9156fc4e8228",
+        "_url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6e131fe-e7df-4876-83f7-9156fc4e8228",
+        "version": 0
+      },
+      {
+        "id": 827892225,
+        "resource": "HET",
+        "resourceId": "117",
+        "_url": "http://www.ebi.ac.uk/msd-srv/chempdb/cgi-bin/cgi.pl?FUNCTION=getByCode&CODE=117",
+        "version": 0
+      },
+      {
+        "id": 559539934,
+        "resource": "KEGG Compound",
+        "resourceId": "C06834",
+        "_url": "http://www.kegg.jp/entry/C06834",
+        "version": 0
+      },
+      {
+        "id": 827882369,
+        "resource": "National Drug Code Directory",
+        "resourceId": "0071-0155-23",
+        "_url": "http://www.hipaaspace.com/Medical_Billing/Coding/National.Drug.Codes/0071-0155-23",
+        "version": 0
+      },
+      {
+        "id": 827882372,
+        "resource": "PDB",
+        "resourceId": "117",
+        "_url": "http://www.rcsb.org/pdb/explore.do?structureId=117",
+        "version": 0
+      },
+      {
+        "id": 559539936,
+        "resource": "PubChem Compound",
+        "resourceId": "60823",
+        "_url": "https://pubchem.ncbi.nlm.nih.gov/compound/60823",
+        "version": 0
+      },
+      {
+        "id": 559539935,
+        "resource": "PubChem Substance",
+        "resourceId": "205162",
+        "_url": "https://pubchem.ncbi.nlm.nih.gov/substance/205162",
+        "version": 0
+      },
+      {
+        "id": 827882370,
+        "resource": "PubChem Substance",
+        "resourceId": "46506188",
+        "_url": "https://pubchem.ncbi.nlm.nih.gov/substance/46506188",
+        "version": 0
+      },
+      {
+        "id": 827892224,
+        "resource": "Therapeutic Targets Database",
+        "resourceId": "DAP000553",
+        "_url": "http://bidd.nus.edu.sg/group/cjttd/ZFTTDDRUG.asp?ID=DAP000553",
+        "version": 0
+      },
+      {
+        "id": 559539937,
+        "name": "Wikipedia",
+        "resource": "URL",
+        "resourceId": "http://en.wikipedia.org/wiki/Atorvastatin",
+        "_url": "http://en.wikipedia.org/wiki/Atorvastatin",
+        "version": 1
+      }
+    ],
+    "inChi": "InChI=1S/C33H35FN2O5/c1-21(2)31-30(33(41)35-25-11-7-4-8-12-25)29(22-9-5-3-6-10-22)32(23-13-15-24(34)16-14-23)36(31)18-17-26(37)19-27(38)20-28(39)40/h3-16,21,26-27,37-38H,17-20H2,1-2H3,(H,35,41)(H,39,40)/t26-,27-/m1/s1",
+    "metabolites": [
+      {
+        "objCls": "Chemical",
+        "id": "PA166247601",
+        "name": "2-hydroxyatorvastatin",
+        "version": 3
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA166247581",
+        "name": "2-hydroxyatorvastatin lactone",
+        "version": 3
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA166247621",
+        "name": "4-hydroxyatorvastatin",
+        "version": 3
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA166247641",
+        "name": "4-hydroxyatorvastatin lactone",
+        "version": 3
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA166247803",
+        "name": "atorvastatin acyl glucuronide",
+        "version": 2
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA166247561",
+        "name": "atorvastatin lactone",
+        "version": 2
+      }
+    ],
+    "pediatric": false,
+    "smiles": "CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)O)O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4",
+    "terms": [
+      {
+        "id": 769188074,
+        "_url": "https://id.nlm.nih.gov/mesh/C065179",
+        "resource": "MeSH",
+        "term": "atorvastatin",
+        "termId": "C065179"
+      },
+      {
+        "id": 1447951320,
+        "_url": "http://www.whocc.no/atc_ddd_index/?showdescription=yes&code=C10AA05",
+        "resource": "Anatomical Therapeutic Chemical Classification",
+        "term": "atorvastatin",
+        "termId": "C10AA05"
+      },
+      {
+        "id": 981848462,
+        "_url": "http://linkedlifedata.com/resource/umls/id/C0286651",
+        "resource": "Unified Medical Language System",
+        "term": "atorvastatin",
+        "termId": "C0286651"
+      },
+      {
+        "id": 981848461,
+        "_url": "https://purl.bioontology.org/ontology/RXNORM/83367",
+        "resource": "RxNorm",
+        "term": "atorvastatin",
+        "termId": "83367"
+      },
+      {
+        "id": 981934615,
+        "_url": "https://purl.bioontology.org/ontology/NDFRT/N0000022046",
+        "resource": "NDF-RT",
+        "term": "ATORVASTATIN",
+        "termId": "N0000022046"
+      }
+    ],
+    "types": [
+      "Drug"
+    ],
+    "version": 21
+  },
+  "status": "success"
+}
